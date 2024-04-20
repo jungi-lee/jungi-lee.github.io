@@ -58,6 +58,7 @@ table.table a {
 figure,
 img {
   max-width: 90vw;
+  width: 60%;
 }
 
 blockquote {
@@ -382,7 +383,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -668,7 +669,7 @@ footer.sticky-bottom {
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 
     span {
       font-size: 1.5rem;

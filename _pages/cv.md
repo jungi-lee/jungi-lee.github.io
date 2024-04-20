@@ -1,11 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+title: CV
+description:
+nav: True
+nav_order: 7
 ---
+Link to my [CV](https://jungi-lee.github.io/CV.pdf). 

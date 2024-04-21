@@ -177,6 +177,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+    defaults:
+      layout: post
+    output: true
+    permalink: /teaching/:path/
 
 announcements:
   enabled: false

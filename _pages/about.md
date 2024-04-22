@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Jungi Lee
+title: About
 permalink: /
 subtitle: Ph.D. Student, Electrical and Computer Engineering, Seoul National University
 
@@ -17,7 +17,7 @@ teaching: true
 ---
 
 Hi! I am a second-year Ph.D. student at [ECE](https://ece.snu.ac.kr/en), [Seoul National University](https://en.snu.ac.kr/). I am currently advised by [Prof. Jaewoong Sim](https://jaewoong.org/) and a member of the Computer Architecture and Systems Lab. <br />
-I received my B.S degree from [Seoul National University](https://ece.snu.ac.kr/) (2023).
+I received my B.S degree from [Seoul National University](https://ece.snu.ac.kr/en) (2023).
 
 I have general research interests in building efficient AI systems, low-bit quantization, and accelerator systems for emerging workloads. I am the author of several top architecture/system conference papers including ISCA and ASPLOS. 
 

@@ -1,7 +1,8 @@
 ---
-layout: default 
+layout: page
 permalink: /cv/
 title: CV
+description:
 nav: True
 nav_order: 7
 ---

@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>Link to my [CV](https://jungi-lee.github.io/CV.pdf)<:p>
+  more_info: <p>Link to my [CV](https://jungi-lee.github.io/CV.pdf)</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,4 +21,4 @@ I received my B.S degree from [Seoul National University](https://ece.snu.ac.kr/
 
 I have general research interests in building efficient AI systems, low-bit quantization, and accelerator systems for emerging workloads. I am the author of several top architecture/system conference papers including ISCA, OSDI, and ASPLOS.
 
-If you have anything to discuss or questions about my work, feel free to contact me via [jungi.lee@snu.ac.kr](mailto:jungi.lee@snu.ac.kr). 
+If you have anything to discuss or questions about my work, feel free to contact me via [jungi.lee@snu.ac.kr](mailto:jungi.lee@snu.ac.kr).

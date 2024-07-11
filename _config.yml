@@ -349,6 +349,11 @@ filtered_bibtex_keywords:
     website,
     selected,
     location,
+    isbn,
+    publisher,
+    address,
+    url,
+    doi,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

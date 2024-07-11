@@ -82,7 +82,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: 준기-이-157b51288 # your LinkedIn user name
+linkedin_username: jungi-lee98 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0009-0004-5629-6258 # your ORCID ID
@@ -347,6 +347,13 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    selected,
+    location,
+    isbn,
+    publisher,
+    address,
+    url,
+    doi,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

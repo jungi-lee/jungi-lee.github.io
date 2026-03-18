@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'll be joining NVIDIA Research in Santa Clara as Machine Learning Intern this summer! :tada:

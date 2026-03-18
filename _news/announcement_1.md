@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be joining NVIDIA Research in Santa Clara as Machine Learning Intern this summer! :tada:
+I'll be joining <strong style="color: #76b900;">NVIDIA Research</strong> in Santa Clara as Machine Learning Intern this summer! :tada:

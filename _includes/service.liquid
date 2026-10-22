@@ -1,0 +1,12 @@
+<div class="service">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% for item in site.data.service %}
+        <tr>
+          <th scope="row" style="width: 20%">{{ item.role }}</th>
+          <td>{{ item.text }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>
